@@ -9,4 +9,4 @@ function test(name){
 
 
 
-console.log(test("Hans")); //Kommentar
+console.log(test("Hans")); //Kommentar ...
