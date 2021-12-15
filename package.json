@@ -1,5 +1,6 @@
 {
   "devDependencies": {
-    "nodemod": "^3.0.0"
+    "nodemod": "^3.0.0",
+    "nodemon": "^2.0.15"
   }
 }
